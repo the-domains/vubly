@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Vubly]]></title>
+        <description><![CDATA[Vubly]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 04 Jan 2016 12:38:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gold Mirror Tiles]]></title>
+            <description><![CDATA[<article><h1>Gold Mirror Tiles</h1><p>Before you decide on mirror tiles for your home, you need to first decide where you would like these mirror tiles in. You can choose the bathroom or shower, kitchen, the bedrooms, and even your walls. Once you have an idea on where you would like these tiles to be, then your next solution would be to find these products for you project.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab6c8ef89e5e17675663c5c0d8cd9fbd68ac0d0f.jpg"></article>]]></description>
+            <link>undefinedgold-mirror-tiles/index.html</link>
+            <guid isPermaLink="false">c8264be9-0052-4fac-8ecc-788c1b02e7c5</guid>
+            <pubDate>Mon, 04 Jan 2016 12:37:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
