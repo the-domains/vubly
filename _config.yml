@@ -1,7 +1,7 @@
 name: Vubly
 favicon: null
-layout_spectrum: 0.15575079410336912
-typography_spectrum: 0.12001069751568139
+layout_spectrum: 1
+typography_spectrum: 0.88063
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.9930295613594353
-  lightness: 0.6109557629097253
-  saturation: 0.10510390065610409
-  rhythmicContrast: 0.7090485566295683
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 0.25
 purpose: []
