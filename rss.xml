@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Vubly]]></title>
         <description><![CDATA[Vubly]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vubly/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 12:38:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jan 2016 12:55:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vubly/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Various Types of Garden Lights]]></title>
+            <description><![CDATA[<article><h1>Various Types of Garden Lights</h1><p>Garden Lighting not only make the house look attractive but they also increase the value of the property. Apart from beautification, they also serve many practical purposes like avoiding any mishap in the dark or keeping trespassers off the land.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76f61d177f17b0a69fa4f6e896d31191f0caa339.jpg"></article>]]></description>
+            <link>https://thegrid.ai/vubly/various-types-of-garden-lights/index.html</link>
+            <guid isPermaLink="false">7b810bd2-ae9f-4d0a-a4b5-a74f9259cca1</guid>
+            <pubDate>Mon, 04 Jan 2016 12:54:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gold Mirror Tiles]]></title>
-            <description><![CDATA[<article><h1>Gold Mirror Tiles</h1><p>Before you decide on mirror tiles for your home, you need to first decide where you would like these mirror tiles in. You can choose the bathroom or shower, kitchen, the bedrooms, and even your walls. Once you have an idea on where you would like these tiles to be, then your next solution would be to find these products for you project.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab6c8ef89e5e17675663c5c0d8cd9fbd68ac0d0f.jpg"></article>]]></description>
-            <link>undefinedgold-mirror-tiles/index.html</link>
+            <description><![CDATA[<article><h1>Gold Mirror Tiles</h1><p>Before you decide on mirror tiles for your home, you need to first decide where you would like these mirror tiles in. You can choose the bathroom or shower, kitchen, the bedrooms, and even your walls. Once you have an idea on where you would like these tiles to be, then your next solution would be to find these products for you project.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0466747c77ff2657de3254b08242fa019313ab37.jpg"></article>]]></description>
+            <link>https://thegrid.ai/vubly/gold-mirror-tiles/index.html</link>
             <guid isPermaLink="false">c8264be9-0052-4fac-8ecc-788c1b02e7c5</guid>
             <pubDate>Mon, 04 Jan 2016 12:37:56 GMT</pubDate>
         </item>
