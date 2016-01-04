@@ -1,0 +1,28 @@
+name: Vubly
+favicon: null
+layout_spectrum: 0.15575079410336912
+typography_spectrum: 0.12001069751568139
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9930295613594353
+  lightness: 0.6109557629097253
+  saturation: 0.10510390065610409
+  rhythmicContrast: 0.7090485566295683
+purpose: []
