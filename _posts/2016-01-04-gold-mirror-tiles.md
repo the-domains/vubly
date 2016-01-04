@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Looking for new ways to decorate your home? Well, gold mirror tiles can be a great addition to any home or decoration project'
-datePublished: '2016-01-04T12:37:56.370Z'
-dateModified: '2016-01-04T12:37:26.694Z'
+datePublished: '2016-01-04T12:56:10.855Z'
+dateModified: '2016-01-04T12:54:32.243Z'
 title: Gold Mirror Tiles
 author: []
 authors: []
